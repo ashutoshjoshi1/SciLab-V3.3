@@ -1,4 +1,4 @@
-# Scilab-V3.2
+# Scilab-V3.3
 
 This folder contains the trimmed Windows-ready app bundle.
 
